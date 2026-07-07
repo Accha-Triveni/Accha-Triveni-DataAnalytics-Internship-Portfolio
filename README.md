@@ -14,7 +14,7 @@ Deliverables:Deep_dive report,interactive Power BI Dashboard.
 Deliverables:Final presentation deck,hypothesis testing summary.
 
 #Final Presentation
-"C:\Users\accha\OneDrive\Desktop\Task05PPT.pptx"
+https://1drv.ms/p/c/B22DA44DF7D6081C/IQDWIwNoLqTiQYkW1kFt659dAWtYUioq7E4NR7aHqGkOBlo?e=V6BJyQ
 
 #Key Learnings
 .Learned data collection, cleaning, and preprocessing techniques.
